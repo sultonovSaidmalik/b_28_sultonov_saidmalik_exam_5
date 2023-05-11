@@ -1,0 +1,5 @@
+1. Dart dasturlash tilida null hechnima yoqligini anglatadi.
+Non-nullable ozgaruvchisi darta dal emasligini bildiradi bunga misol   int a = 12; manash non-nullable ozgaruvchisi deyiladi.
+Nullable ozgaruvchisi esa null bolishi mumkin bolgan ozgaruvchisiga etiladi unga misol  int? b;
+ularnig farqi biz agar internetdan malumot keladigon bolsa ularni qanday kelishini bilmasak ularni nullable qilib elon qib ketishimiz mumkin agar
+keladigon malumot aniq bolsa Non-nullable qilib ketishimiz kerak lekin biz iloji boricha null dan saqlanishimiz kerak.

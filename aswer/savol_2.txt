@@ -1,0 +1,4 @@
+2. Encapsulation bu dart tilida kapsulaga orash deyiladi nima uchun encapsulation  qilishimizning sababi tashqi muhittan
+himoyalash deyula ularni nima uchun encapsulation qilishimizning sababi biz malumotlarimizni himoyalashda ishlatamiz kopinch
+ularni bank larda hisob raqamlarini encapsulationga orab qoyiladi biz dart dasturlash tilida ularni  (_) tak chiziq bilan elon qilamiz
+va idintificatordan oldin yoziladi.
